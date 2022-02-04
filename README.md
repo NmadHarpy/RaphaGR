@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on getting my skills better as a developer and human being in general
-- 🌱 I’m currently learning C# and I'm in love with it
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with getting a job as a self taught developer
 - 💬 Ask me about anything, really
